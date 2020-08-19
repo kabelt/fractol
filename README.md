@@ -17,7 +17,7 @@ cd ~/Downloads && git clone https://github.com/kabelt/fractol.git fractol && cd 
 - [x] Four available color themes
 
 ### Want to explore other types of fractal?
-Relaunch the program using the name of other fractals for example, inserting this into your terminal
+Relaunch the program using the name of the other fractals. For example, inserting this into your terminal
 ```shell
 ./fractol Mandelbrot
 ```
