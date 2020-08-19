@@ -1,5 +1,6 @@
 # Fractol
 Explore one of the most magnificent mysteries of the universe, [fractals](https://en.wikipedia.org/wiki/Fractal), with ease from your own computer.\
+\
 ![Aug-19-2020 15-49-35](https://user-images.githubusercontent.com/49394144/90613514-ac4a9580-e233-11ea-9b93-63ff9bdbe764.gif)
 ### Requirements
 This project relies on MiniLibX and can be run only on MacOS.
